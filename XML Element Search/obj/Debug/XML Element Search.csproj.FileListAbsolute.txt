@@ -1,0 +1,7 @@
+C:\Users\dtalik\source\repos\XML Element Search\XML Element Search\bin\Debug\XML Element Search.exe.config
+C:\Users\dtalik\source\repos\XML Element Search\XML Element Search\bin\Debug\XML Element Search.exe
+C:\Users\dtalik\source\repos\XML Element Search\XML Element Search\bin\Debug\XML Element Search.pdb
+C:\Users\dtalik\source\repos\XML Element Search\XML Element Search\obj\Debug\XML Element Search.csprojAssemblyReference.cache
+C:\Users\dtalik\source\repos\XML Element Search\XML Element Search\obj\Debug\XML Element Search.csproj.CoreCompileInputs.cache
+C:\Users\dtalik\source\repos\XML Element Search\XML Element Search\obj\Debug\XML Element Search.exe
+C:\Users\dtalik\source\repos\XML Element Search\XML Element Search\obj\Debug\XML Element Search.pdb
